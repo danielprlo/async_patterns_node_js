@@ -1,5 +1,6 @@
 # Async patterns in node js
-# Available branches with READMEs and code examples:
+
+Available branches with READMEs and code examples:
 ## Event Loop and async code
 - event-loop-async-code
 ## Event emitters
